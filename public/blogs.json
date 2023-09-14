@@ -1,0 +1,55 @@
+[{
+    
+    "id": 101,
+    "cover": "https://i.ibb.co/34nxd4q/1.png",
+    "title": "The Enigmatic Quest",
+    "author-img": "https://i.ibb.co/M6K6mzV/boy1.png",
+    "posted-data": "2023-09-13",
+    "reading-time": "2 hours",
+    "hashtags": ["mystery", "adventure", "puzzles"]
+      
+      
+  },
+  {
+    "id": 102,
+    "cover": "https://i.ibb.co/34nxd4q/2.png",
+    "title": "The Starship Odyssey",
+    "author": "John A. Smith",
+    "author-img": "https://i.ibb.co/M6K6mzV/boy2.png",
+    "posted_date": "2023-09-12",
+    "reading_title": "Chapter 5: The Galactic Voyage",
+    "hashtags": ["sciencefiction", "adventure", "space"]
+  },
+  {
+    "id": 103,
+    "cover": "https://i.ibb.co/34nxd4q/3.png",
+    "title": "Cooking with Love",
+    "author": "Samantha Cook",
+    "author-img": "https://i.ibb.co/M6K6mzV/boy3.png",
+    "posted_date": "2023-09-11",
+    "reading_title": "Recipe of the Day: Spaghetti Carbonara",
+    "hashtags": ["cooking", "recipes", "foodie"]
+  },
+  {
+    "id": 104,
+    "cover": "https://i.ibb.co/34nxd4q/4.png",
+    "title": "Mystery at Midnight Manor",
+    "author": "Arthur D. Detective",
+    "author-img": "https://i.ibb.co/M6K6mzV/boy4.png",
+    "posted_date": "2023-09-10",
+    "reading_title": "Chapter 3: Clues in the Library",
+    "hashtags": ["mystery", "suspense", "detective"]
+  },
+  {
+    "id": 105,
+    "cover": "https://i.ibb.co/34nxd4q/5.png",
+    "title": "Traveling the World: A Journey of Discovery",
+    "author": "Emily Explorer",
+    "author-img": "https://i.ibb.co/M6K6mzV/boy5.png",
+    "posted_date": "2023-09-09",
+    "reading_title": "Chapter 7: Exploring the Amazon Rainforest",
+    "hashtags": ["travel", "adventure", "explore"]
+  }
+  
+]
+  
